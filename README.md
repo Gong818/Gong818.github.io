@@ -68,7 +68,7 @@
 					<tr>
 						<td width="10%">个人头像</td>
 						<td style="text-align: center;" width="10%">
-							<img src="images/me.jpg" width="300">
+							<img src=""C:\Users\22139\Desktop\5f18ce3af815c340f9c6dc667627911.jpg".jpg" width="300">
 						</td>
 						<td colspan="2">
 							<p style="line-height: 40px;padding: 10px 20px;">姓名:xxxxx </p>
