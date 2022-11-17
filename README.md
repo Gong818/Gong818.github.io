@@ -47,7 +47,6 @@
 							<a href="index3.html">联系我</a>
 						</li>
 					<li>
-							<a href="index4.html">会员登录</a>
 						</li>
 						<li>
 							<a>
