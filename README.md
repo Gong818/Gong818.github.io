@@ -40,6 +40,7 @@
 						<li>
 							<a href="index1.html" class="active">个人简介</a>
 						</li>
+						     <p> My name is GZJ ,Im 20 years old and study in BUCEA of AI <p>
 						<li>
 							<a href="index2.html">个人作品</a>
 						</li>
