@@ -5,8 +5,8 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta http-equiv="X-UA-Compatible" content="ie=edge">
 		<title></title>
-		<link rel="stylesheet" type="text/css" href="css/style.css" />
-		<style type="text/css">
+		<link rel="stylesheet" type="text/css" href="cssstyle.css" />
+		<style type="cssstyle.css">
 			#tab td:first-child {
 				min-width: 200px;
 				text-align: center;
@@ -35,20 +35,17 @@
 							<a href="#"><img src="images/logo.png" height="100%"></a>
 						</li>
 						<li>
-							<a href="index.html">博客首页</a>
+							<a href="https://gong818.github.io/">博客首页</a>
 						</li>
 						<li>
-							<a href="index1.html" class="active">个人简介</a>
-						</li>
-						     <p> My name is GZJ ,Im 20 years old and study in BUCEA of AI <p>
-						<li>
-							<a href="index2.html">个人作品</a>
+							<a href="https://www.bucea.edu.cn/" target="_blank">访问校园网</a>
 						</li>
 						<li>
-							<a href="index3.html">联系我</a>
+							<a href="https://mail.qq.com/" target="_blank">访问我的邮箱</a>
 						</li>
-					<li>
-						</li>
+						<li>
+							<a href="https://i.chaoxing.com/base?t=1668677243266/" target="_blank">访问学习通</a>
+						</li>	
 						<li>
 							<a>
 								<p class="search">
