@@ -85,7 +85,7 @@
       <param name="movie" value="images/flash7291.swf" wmode="transparent" />
       <param name="quality" value="high" />
 	    <param  name="wmode" value="transparent" />
-      <embed src="images/flash7291.swf" quality="high" wmode="transparent"  pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="606" height="214"></embed>
+      <embed src="images/flash7291.swf" quality="high" wmode="transparent"  pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="606" height="214">
     </object>
 						</td>
 					</tr>
