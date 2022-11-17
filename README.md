@@ -66,7 +66,7 @@
 					<tr>
 						<td width="10%">个人头像</td>
 						<td style="text-align: center;" width="10%">
-							<img src="https://github.com/Gong818/Gong818.github.io/blob/main/5f18ce3af815c340f9c6dc667627911.jpg" width="300">
+							<img src="https://github.com/Gong818/Gong818.github.io/blob/main/me.jpg" width="300">
 						</td>
 						<td colspan="2">
 							<p style="line-height: 40px;padding: 10px 20px;">姓名:龚梓骏 </p>
