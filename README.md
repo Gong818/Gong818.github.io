@@ -71,9 +71,9 @@
 							<img src=""C:\Users\22139\Desktop\5f18ce3af815c340f9c6dc667627911.jpg".jpg" width="300">
 						</td>
 						<td colspan="2">
-							<p style="line-height: 40px;padding: 10px 20px;">姓名:xxxxx </p>
-							<p style="line-height: 40px;padding: 10px 20px;">专业:xxxx</p>
-							<p style="line-height: 40px;padding: 10px 20px;">学号:xxxx</p>
+							<p style="line-height: 40px;padding: 10px 20px;">姓名:龚梓骏 </p>
+							<p style="line-height: 40px;padding: 10px 20px;">专业:人工智能</p>
+							<p style="line-height: 40px;padding: 10px 20px;">学号:202007020210</p>
 							
 						</td>
 					</tr>
